@@ -214,7 +214,7 @@ function redCyclists(){
 //  distance = 0;
 // }
 
-function rest(){
+function reset(){
   gameState = PLAY;
   gameOver.visible = false;
   mainCyclist.addAnimation("SahilRunning",mainRacerImg1);
